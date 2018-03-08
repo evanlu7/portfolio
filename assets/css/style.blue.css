@@ -98,7 +98,7 @@ table {
   -webkit-transition: width 0.3s linear;
   transition: width 0.3s linear;
   width: calc(100% - 200px);
-  background-color: #F4F7FA;
+  background-color: ;
   min-height: 100vh;
   padding-bottom: 50px;
 }
@@ -289,7 +289,6 @@ button {
 * ==========================================================
 */
 nav.navbar {
-  background: black;
   padding: 2.0rem 0;
   /* Navbar Brand --------- */
   /*  Dropdowns ------------ */

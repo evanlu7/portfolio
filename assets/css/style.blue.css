@@ -20,7 +20,7 @@ Bootstrapious Dashboard Template 1.1
 a {
   display: inline-block;
   text-decoration: none;
-  color: #fff;
+  color: black;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -47,7 +47,7 @@ span {
 }
 
 p {
-  color: #888;
+  color: black;
 }
 
 i[class*='icon-'] {

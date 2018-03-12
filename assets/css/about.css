@@ -167,10 +167,6 @@ top: -360px;
 
 /*other stuff*/
 
-#text {
-
-}
-
 
 .h4 {
   position: relative;
@@ -195,7 +191,7 @@ ul {
 
 
 /*for page alignment*/
-html,
+/*html,
 body {
     height: 100%;
 }
@@ -213,7 +209,7 @@ p {
 	left: -40px;
 	top: 12px;
 
-}
+}*/
 
 
 
@@ -223,7 +219,7 @@ p {
 /*for background*/
 
 
-@import "compass/css3";
+/*@import "compass/css3";
 
 body {
   background: 
@@ -260,4 +256,4 @@ h1 {
     0 0 10px rgba(black, 0.95),
     0 0 30px rgba(salmon, 0.95);
   text-align: center;
-}
+}*/

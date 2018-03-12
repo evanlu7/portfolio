@@ -9,7 +9,7 @@
 
 #headSpinQuote {
   position: relative;
-  bottom: 300px;
+  bottom: 430px;
   right: 200px;
   height: 80px;
   width: 600px;
@@ -26,13 +26,14 @@
 #listStyle {
   position: relative;
   width: 300px;
-  right: 10px;
+  bottom: 425px;
+  left: 300px;
 }
 /*icons*/
 #github {
   position: relative;
-  bottom: 290px;
-  right: 200px;
+  bottom: 400px;
+  right: 440px;
 }
 
 #linkedin {
@@ -49,8 +50,8 @@ right: 490px;
 
 #arrow2 {
   position:relative;
-  right: 100px;
-  bottom: 290px;
+  right: 445px;
+  bottom: 400px;
 }
 
 #face:hover{
@@ -73,14 +74,16 @@ right: 490px;
 
 #face2 {
    position: relative;
-  left: 100px;
-  bottom: 250px;
+  right: 400px;
+  bottom: 375px;
    height: 100px;
     width: 100px;    
     transition: .5s all;
      z-index: 10;
   }
-
+ul {
+  list-style-type: none;
+}
 
 /*ul {
   margin-left: auto;
@@ -89,9 +92,7 @@ right: 490px;
 }*/
 
 
-/*ul {
-  list-style-type: none;
-}*/
+
 
 
 /*#title {

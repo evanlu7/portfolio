@@ -1,8 +1,16 @@
 
+#info {
+  position: relative;
+  width: 600px;
+  right: 200px;
+  bottom: 175px;
+  color: black;
+}
+
 #headSpinQuote {
   position: relative;
   bottom: 300px;
-  color: black;
+  right: 200px;
   height: 80px;
   width: 600px;
 }
@@ -22,48 +30,57 @@
 }
 /*icons*/
 #github {
-position: relative;
-
-
+  position: relative;
+  bottom: 290px;
+  right: 200px;
 }
 
 #linkedin {
-  position: relative;
-
+position: relative;
+bottom: 290px;
+right: 490px;
 }
 
 #arrow1 {
   position: relative;
+  right: 400px;
+  bottom: 290px;
 }
 
 #arrow2 {
   position:relative;
-
+  right: 100px;
+  bottom: 290px;
 }
-/*spinning head*/
 
-.faces
-  {
-    position:relative;
-    transition: .5s all;
-    height: 100px;
-    width: 100px;
-  }
+#face:hover{
+  transform:rotate(360deg);
+}
 
-.faces:hover{
+#face2:hover{
   transform:rotate(360deg);
 }
 
 #face {
   position: relative;
-
-}
+  right: 300px;
+  bottom: 250px;
+   height: 100px;
+    width: 100px;    
+    transition: .5s all;
+    z-index: 10;
+  }
 
 #face2 {
-  position: relative;
+   position: relative;
+  left: 100px;
+  bottom: 250px;
+   height: 100px;
+    width: 100px;    
+    transition: .5s all;
+     z-index: 10;
+  }
 
-
-}
 
 /*ul {
   margin-left: auto;

@@ -1,3 +1,11 @@
+.secondAni {
+  position: relative;
+  width: 600px;
+}
+
+#font{
+  color: black;
+}
 
 #info {
   position: relative;
@@ -26,7 +34,7 @@
 #listStyle {
   position: relative;
   width: 300px;
-  bottom: 425px;
+  bottom: 400px;
   left: 300px;
 }
 /*icons*/
